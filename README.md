@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hadassiah and I'm a I'm a Brazilian, I'm learning to program, I accept tips and guidance</h2>
+<h2 align="left">Hi 👋! My name is Hadassiah and I'm a Brazilian, I'm learning to program, I accept tips and guidance</h2>
 
 ###
 
